@@ -14,4 +14,6 @@ This repository contains eight weekly task assignments
    * Week 7 - **es.py** - this program read in a text file from the command line and outputs the number of lower case e's and capital E's it contains
    * Week 8 - **plottask.py** - this program displays a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2 
 
-   
+   ![image](https://user-images.githubusercontent.com/124067038/234131463-da605fd1-2eac-4592-9aec-09f862e1ab32.png)
+
+
