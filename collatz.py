@@ -20,9 +20,8 @@ while pos_int >1:                         # while inputted positive integer is >
         pos_int = (pos_int * 3) + 1      # multiply by 3 and add 1
         pos_ints.append(int(pos_int))
 
-
-       
-print(pos_ints)                            # print the list of numbers generated
+for i in pos_ints:
+    print(i, end = ' ')                   # print the list of numbers generated without commas or brackets
 
 
 #reference : https://www.w3resource.com/python-exercises/challenges/1/python-challenges-1-exercise-23.php
